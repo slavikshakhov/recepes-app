@@ -1,0 +1,9 @@
+.main-bg {
+  background: url(../src/images/main-bg.jpg);
+  background-repeat: repeat;
+  background-size: contain;
+  height: 100%;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+}
