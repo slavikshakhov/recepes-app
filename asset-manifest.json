@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/recepes-app/static/css/main.4703d94a.chunk.css",
+    "main.js": "/recepes-app/static/js/main.c14047ec.chunk.js",
+    "main.js.map": "/recepes-app/static/js/main.c14047ec.chunk.js.map",
+    "runtime-main.js": "/recepes-app/static/js/runtime-main.dc37eb64.js",
+    "runtime-main.js.map": "/recepes-app/static/js/runtime-main.dc37eb64.js.map",
+    "static/js/2.81e45963.chunk.js": "/recepes-app/static/js/2.81e45963.chunk.js",
+    "static/js/2.81e45963.chunk.js.map": "/recepes-app/static/js/2.81e45963.chunk.js.map",
+    "index.html": "/recepes-app/index.html",
+    "precache-manifest.d768421f8e659e62f84a655a75bce7cd.js": "/recepes-app/precache-manifest.d768421f8e659e62f84a655a75bce7cd.js",
+    "service-worker.js": "/recepes-app/service-worker.js",
+    "static/css/main.4703d94a.chunk.css.map": "/recepes-app/static/css/main.4703d94a.chunk.css.map",
+    "static/js/2.81e45963.chunk.js.LICENSE.txt": "/recepes-app/static/js/2.81e45963.chunk.js.LICENSE.txt",
+    "static/media/Recepes.module.css": "/recepes-app/static/media/background.effffb72.jpg",
+    "static/media/Recepe.module.css": "/recepes-app/static/media/card-bg.affb5b6a.jpg",
+    "static/media/App.css": "/recepes-app/static/media/main-bg.7f829046.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc37eb64.js",
+    "static/js/2.81e45963.chunk.js",
+    "static/css/main.4703d94a.chunk.css",
+    "static/js/main.c14047ec.chunk.js"
+  ]
+}
