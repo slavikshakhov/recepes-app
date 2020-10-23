@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/slavikshakhov.github.io/recepes-app/static/css/main.076aca8c.chunk.css",
-    "main.js": "/slavikshakhov.github.io/recepes-app/static/js/main.e04eee17.chunk.js",
-    "main.js.map": "/slavikshakhov.github.io/recepes-app/static/js/main.e04eee17.chunk.js.map",
-    "runtime-main.js": "/slavikshakhov.github.io/recepes-app/static/js/runtime-main.6b1cc9b1.js",
-    "runtime-main.js.map": "/slavikshakhov.github.io/recepes-app/static/js/runtime-main.6b1cc9b1.js.map",
-    "static/js/2.81e45963.chunk.js": "/slavikshakhov.github.io/recepes-app/static/js/2.81e45963.chunk.js",
-    "static/js/2.81e45963.chunk.js.map": "/slavikshakhov.github.io/recepes-app/static/js/2.81e45963.chunk.js.map",
-    "index.html": "/slavikshakhov.github.io/recepes-app/index.html",
-    "precache-manifest.a9be444881a41ddaf52198737bcc8452.js": "/slavikshakhov.github.io/recepes-app/precache-manifest.a9be444881a41ddaf52198737bcc8452.js",
-    "service-worker.js": "/slavikshakhov.github.io/recepes-app/service-worker.js",
-    "static/css/main.076aca8c.chunk.css.map": "/slavikshakhov.github.io/recepes-app/static/css/main.076aca8c.chunk.css.map",
-    "static/js/2.81e45963.chunk.js.LICENSE.txt": "/slavikshakhov.github.io/recepes-app/static/js/2.81e45963.chunk.js.LICENSE.txt",
-    "static/media/Recepes.module.css": "/slavikshakhov.github.io/recepes-app/static/media/background.effffb72.jpg",
-    "static/media/Recepe.module.css": "/slavikshakhov.github.io/recepes-app/static/media/card-bg.affb5b6a.jpg",
-    "static/media/App.css": "/slavikshakhov.github.io/recepes-app/static/media/main-bg.7f829046.jpg"
+    "main.css": "./static/css/main.d84e19ff.chunk.css",
+    "main.js": "./static/js/main.bc427087.chunk.js",
+    "main.js.map": "./static/js/main.bc427087.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.04525b78.js",
+    "runtime-main.js.map": "./static/js/runtime-main.04525b78.js.map",
+    "static/js/2.81e45963.chunk.js": "./static/js/2.81e45963.chunk.js",
+    "static/js/2.81e45963.chunk.js.map": "./static/js/2.81e45963.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.35b09cf292d3fe31c1661f9416eb8abe.js": "./precache-manifest.35b09cf292d3fe31c1661f9416eb8abe.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.d84e19ff.chunk.css.map": "./static/css/main.d84e19ff.chunk.css.map",
+    "static/js/2.81e45963.chunk.js.LICENSE.txt": "./static/js/2.81e45963.chunk.js.LICENSE.txt",
+    "static/media/Recepes.module.css": "./static/media/background.effffb72.jpg",
+    "static/media/Recepe.module.css": "./static/media/card-bg.affb5b6a.jpg",
+    "static/media/App.css": "./static/media/main-bg.7f829046.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b1cc9b1.js",
+    "static/js/runtime-main.04525b78.js",
     "static/js/2.81e45963.chunk.js",
-    "static/css/main.076aca8c.chunk.css",
-    "static/js/main.e04eee17.chunk.js"
+    "static/css/main.d84e19ff.chunk.css",
+    "static/js/main.bc427087.chunk.js"
   ]
 }
